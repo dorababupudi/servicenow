@@ -33,11 +33,9 @@ Documentation: Refer to the documentation in the docs directory for detailed inf
 Contributing
 We welcome contributions from the community to enhance and expand the capabilities of TurbulentCryptocurrency-Solutions. If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Special thanks to the ServiceNow community for providing a powerful platform for ITSM solutions.
-Explore the TurbulentCryptocurrency-Solutions and empower your organization to navigate the cryptocurrency landscape with confidence and efficiency. Happy coding!
+Explore the TurbulentCryptocurrency-Solutions and empower your organization to navigate the cryptocurrency landscape with confidence and efficiency.
 
 Feel free to customize the description further based on the specific details and features of your project.
